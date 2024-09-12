@@ -1,0 +1,22 @@
+# Ignorar archivos generados y temporales
+output/
+*.jpg
+
+# Ignorar archivos de configuración del entorno virtual
+venv/
+.env/
+
+# Ignorar archivos de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Ignorar archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Ignorar archivos de configuración de sistema
+.DS_Store
+Thumbs.db
